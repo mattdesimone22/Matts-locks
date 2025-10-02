@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-02",
+  "games": [
+    {
+      "matchup": "Tigers vs Guardians",
+      "pick": "Guardians ML",
+      "edge": 0.12,
+      "reason": "Guardians' bullpen xFIP of 3.10 and wRC+ advantage of +10 over Tigers.",
+      "team_stats": "Guardians xFIP 3.10 | Tigers xFIP 3.80 | Guardians wRC+ 110 | Tigers wRC+ 100",
+      "player_stats": "Jose Ramirez xwOBA vs RHP .420 | Miguel Cabrera xwOBA vs LHP .350",
+      "odds": "Guardians ML -135 | Tigers ML +115"
+    },
+    {
+      "matchup": "Padres vs Cubs",
+      "pick": "Cubs ML",
+      "edge": 0.08,
+      "reason": "Cubs' starting pitcher Jameson Taillon's CSW% of 30% and HR/FB ratio of 0.10.",
+      "team_stats": "Cubs xFIP 3.50 | Padres xFIP 3.70 | Cubs wRC+ 105 | Padres wRC+ 100",
+      "player_stats": "Nico Hoerner xwOBA vs RHP .380 | Manny Machado xwOBA vs LHP .370",
+      "odds": "Cubs ML -115 | Padres ML +105"
+    },
+    {
+      "matchup": "Red Sox vs Yankees",
+      "pick": "Yankees ML",
+      "edge": 0.10,
+      "reason": "Yankees' bullpen xFIP of 3.20 and wRC+ advantage of +8 over Red Sox.",
+      "team_stats": "Yankees xFIP 3.20 | Red Sox xFIP 3.50 | Yankees wRC+ 115 | Red Sox wRC+ 107",
+      "player_stats": "Aaron Judge xwOBA vs RHP .430 | Rafael Devers xwOBA vs LHP .380",
+      "odds": "Yankees ML -160 | Red Sox ML +140"
+    }
+  ]
+}
