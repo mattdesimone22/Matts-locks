@@ -1,0 +1,23 @@
+{
+  "date": "2025-10-02",
+  "games": [
+    {
+      "matchup": "Yankees vs Red Sox",
+      "pick": "Yankees ML",
+      "edge": 0.18,
+      "reason": "Bullpen xFIP 3.15 vs opponent, wRC+ advantage +12, starting pitcher K-BB% 28%",
+      "team_stats": "Yankees xFIP 3.15 | Red Sox xFIP 4.10 | Yankees wRC+ 120 | Red Sox wRC+ 108",
+      "player_stats": "Aaron Judge xwOBA vs RHP .430 | Rafael Devers xwOBA vs LHP .360",
+      "odds": "Yankees ML -145 | Red Sox ML +125"
+    },
+    {
+      "matchup": "Dodgers vs Padres",
+      "pick": "Dodgers ML",
+      "edge": 0.15,
+      "reason": "Dodgers hitting vs LHP + advanced metrics, starting pitcher CSW% high, HR/FB low",
+      "team_stats": "Dodgers xFIP 3.50 | Padres xFIP 3.95 | Dodgers wRC+ 118 | Padres wRC+ 105",
+      "player_stats": "Mookie Betts xwOBA vs LHP .420 | Fernando Tatis Jr xwOBA vs RHP .385",
+      "odds": "Dodgers ML -130 | Padres ML +110"
+    }
+  ]
+}
