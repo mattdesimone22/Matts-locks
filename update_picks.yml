@@ -1,0 +1,18 @@
+name: Daily MLB Picks Update
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # 9:00 AM EST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch MLB Data and Calculate Picks
+        run: |
+          # Fetch data from ESPN API
+          # Calculate advanced metrics
+          # Generate picks_today.json
+          # Commit and push changes
